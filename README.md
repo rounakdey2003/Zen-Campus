@@ -1,4 +1,4 @@
-### Link: zencampus.vercel.app
+# Link: https://zencampus.vercel.app
 ---
 # ZenCampus
 
